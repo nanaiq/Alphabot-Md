@@ -1460,6 +1460,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ Nurutomo
 ├ Rashid
 ├ ZeeoneOfc
+├ X-ZC
 ├ Penyedia Module
 ╰❒ And All Support
     `
@@ -1509,7 +1510,7 @@ exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Recode : Zeeone Ofc
 `
 }
 exports.tos = (ownernomer) => {
